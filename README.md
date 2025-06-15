@@ -16,7 +16,7 @@ Before loading this package, it is also necessary to add the ``tools/``
 directory of DREAM to the ``PYTHONPATH`` environment variable:
 ```bash
 export PYTHONPATH="/path/to/DREAM/tools:$PYTHONPATH"
-
+```
 
 ## Usage
 A number of examples of how to use the code can be found under the ``examples/``
